@@ -1,0 +1,1 @@
+# titanic_compition_kaggle
